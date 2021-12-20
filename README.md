@@ -1,5 +1,4 @@
-# CS-102-Course-Project
-Android Application for In-Campus Navigation
+# In-Campus Navigation and Information Android Application
 
 The application is an all in all solution to make the academic and social life in Bilkent easier and more managable. It allows the user to user real time navigation to find their way through the campus, look for ongoing social events and courses, with the option to pick the ones they would like to interact with. They can add reminders, gain further information about the campus and access varis tools to optimize their experience.
 
